@@ -10,12 +10,10 @@ Software engineer and founder of Gusset. I build software that helps people, the
 
 #### What I'm building
 
-| | |
-|---|---|
-| **[Gusset](https://gussetlog.ca)** | A work-experience log for engineers in training in Canada, with an AI assistant called Gus. Log one sentence a day and your record builds itself. |
-| **[Switchboard](https://switchboard.mridulmerges.ca)** | Routes each step of an AI task to the right model, and escalates when a cheaper one isn't enough. [Source](https://github.com/mridulsharma2002/switchboard) |
-| **[EVantage](https://mridulmerges.ca/evantage)** | EV charging that prices itself by the grid: cheaper when it's clean and quiet, pricier at the peak. My capstone at UNB. |
-| **[mridulmerges.ca](https://mridulmerges.ca/?src=gh)** | My corner of the internet. A static site on Cloudflare Pages, with a small Pages Function for click analytics. [Source](https://github.com/mridulsharma2002/mridulmerges-site) |
+- **[Gusset](https://gussetlog.ca)**: A work-experience log for engineers in training in Canada, with an AI assistant called Gus. Log one sentence a day and your record builds itself.
+- **[Switchboard](https://switchboard.mridulmerges.ca)**: Routes each step of an AI task to the right model, and escalates when a cheaper one isn't enough. [Source](https://github.com/mridulsharma2002/switchboard)
+- **[EVantage](https://mridulmerges.ca/evantage)**: EV charging that prices itself by the grid: cheaper when it's clean and quiet, pricier at the peak. My capstone at UNB.
+- **[mridulmerges.ca](https://mridulmerges.ca/?src=gh)**: My corner of the internet. A static site on Cloudflare Pages, with a small Pages Function for click analytics. [Source](https://github.com/mridulsharma2002/mridulmerges-site)
 
 #### How I like to work
 
